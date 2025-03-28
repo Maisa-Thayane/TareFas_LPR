@@ -1,0 +1,6 @@
+<script>start("c:\\Users\\isa14\\OneDrive\\Área de Trabalho\\ATVEstrutura\\ATV5LPR\\ex2\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bin","bin",1,0,"0 B",1743115246,"3/27/25, 7:40:46 PM");</script>
+<script>addRow("obj","obj",1,0,"0 B",1743115246,"3/27/25, 7:40:46 PM");</script>
+<script>addRow("ex2.csproj","ex2.csproj",0,252,"252 B",1743115185,"3/27/25, 7:39:45 PM");</script>
+<script>addRow("Program.cs","Program.cs",0,723,"723 B",1743116832,"3/27/25, 8:07:12 PM");</script>
