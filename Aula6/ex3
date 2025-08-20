@@ -1,6 +1,0 @@
-<script>start("c:\\Users\\isa14\\OneDrive\\Área de Trabalho\\Aula6\\ex3\\");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("bin","bin",1,0,"0 B",1744912460,"4/17/25, 2:54:20 PM");</script>
-<script>addRow("obj","obj",1,0,"0 B",1744912460,"4/17/25, 2:54:20 PM");</script>
-<script>addRow("ex3.csproj","ex3.csproj",0,252,"252 B",1744912387,"4/17/25, 2:53:07 PM");</script>
-<script>addRow("Program.cs","Program.cs",0,4442,"4.3 kB",1744979434,"4/18/25, 9:30:34 AM");</script>
