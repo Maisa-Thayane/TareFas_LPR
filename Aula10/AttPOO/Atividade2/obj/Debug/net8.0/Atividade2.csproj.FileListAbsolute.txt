@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\bin\Debug\net8.0\Atividade2.exe
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\bin\Debug\net8.0\Atividade2.deps.json
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\bin\Debug\net8.0\Atividade2.runtimeconfig.json
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\bin\Debug\net8.0\Atividade2.dll
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\bin\Debug\net8.0\Atividade2.pdb
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\obj\Debug\net8.0\Atividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\obj\Debug\net8.0\Atividade2.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\obj\Debug\net8.0\Atividade2.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\obj\Debug\net8.0\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\obj\Debug\net8.0\Atividade2.dll
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\obj\Debug\net8.0\refint\Atividade2.dll
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\obj\Debug\net8.0\Atividade2.pdb
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\obj\Debug\net8.0\Atividade2.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Aula10\AttPOO\Atividade2\obj\Debug\net8.0\ref\Atividade2.dll
