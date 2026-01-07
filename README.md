@@ -1,6 +1,6 @@
 # Atividades referentes a Matéria de Linguagens de Programação
 # Aulas 1 e 2: 
-- No início do ano letivo, não utilizamos o GitHub, portanto não havia salvo os arquivos contendo as atividades. Futuramente, pretendo refazer as atividades e adicionar aqui.
+- No início do ano letivo, não utilizamos o GitHub, portanto não havia salvo os arquivos contendo as atividades. 
 # Aula 3: GitHub e Controle de Versionamento
 - Controle de versionamento e GIT
 - GitHub
