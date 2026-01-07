@@ -37,3 +37,11 @@
 - Dicionários
 - Tipos VAR e AUTO
 - Implementação em C# e C++
+# Aula 10: Programação Orientada a Objetos
+- Programação Orientada a Objetos
+- Classes
+- Objetos
+- Construtores
+- Encapsulamento
+- Separação entre lógica principal e regras de negócio
+- Implementação em C#
